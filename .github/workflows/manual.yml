@@ -20,7 +20,7 @@ jobs:
       - name: check *.channels.xml
         run: |
           npm run channels:lint
-      - name: superguide
+      - name: guide
         run: |
           for i in {1..3}; do
             npm run grab -- --channels=plchannels.xml --output=guide.xml --maxConnections=5 
