@@ -29,5 +29,7 @@ jobs:
           
     - name: Commit changes
       run: |
-        git commit -m "Update xml"
-        git push
+          git config --global user.email "you@example.com"
+          git config --global user.name "Your Name"
+          git commit -m "Update xml"
+          git push
