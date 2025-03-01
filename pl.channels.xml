@@ -259,11 +259,11 @@
   <channel site="programtv.onet.pl" lang="pl" xmltv_id="ZoomTV.pl" site_id="zoom-tv-526">ZOOM TV</channel>
 
  <channel site="epgshare01.online" lang="en" xmltv_id="AFVFamily.pl" site_id="RAKUTEN_PL1#PL:.AFV.Family.pl">AFV Family</channel>
- <channel site="epgshare01.online" lang="pl" xmltv_id="BBCNewsEurope.uk" site_id="PL1#BBC.World.News.pl">BBC World News</channel>
+ <channel site="tv.blue.ch" lang="en" xmltv_id="BBCNewsEurope.uk" site_id="40">BBC World News</channel>
  <channel site="epgshare01.online" lang="en" xmltv_id="Bigtime.pl" site_id="RAKUTEN_PL1#PL:.Bigtime.-.Darmowe.Filmy.pl">Bigtime - Darmowe Filmy</channel>
- <channel site="epgshare01.online" lang="pl" xmltv_id="BloombergTVEurope.uk" site_id="PL1#Bloomberg.(ang.).pl">Bloomberg (ang.)</channel>
+<channel site="sky.com" lang="en" xmltv_id="BloombergTVEurope.uk" site_id="1074">Bloomberg HD</channel>
  <channel site="epgshare01.online" lang="en" xmltv_id="CarCityAdventures.pl" site_id="RAKUTEN_PL1#PL:.Car.City.Adventures.pl">PL: Car City Adventures</channel>
- <channel site="epgshare01.online" lang="pl" xmltv_id="CNBCEurope.uk" site_id="PL1#CNBC.pl">CNBC</channel>
+ <channel site="sky.com" lang="en" xmltv_id="CNBCEurope.uk" site_id="1088">CNBC HD</channel>
  <channel site="epgshare01.online" lang="en" xmltv_id="DAZNCombat.pl" site_id="RAKUTEN_PL1#PL:.DAZN.Combat.pl">DAZN Combat</channel>
  <channel site="epgshare01.online" lang="en" xmltv_id="DAZNWomensFootball.pl" site_id="RAKUTEN_PL1#PL:.DAZN.Women`s.Football.pl">DAZN Women`s Football</channel>
  <channel site="epgshare01.online" lang="en" xmltv_id="FailArmy.pl" site_id="RAKUTEN_PL1#PL:.Fail.Army.pl">Fail Army</channel>
@@ -273,8 +273,11 @@
  <channel site="epgshare01.online" lang="pl" xmltv_id="RadiowaCzworka.pl" site_id="PL1#Czwórka.Polskie.Radio.pl">Czwórka Polskie Radio</channel>
  <channel site="epgshare01.online" lang="en" xmltv_id="RedCarpetTVInternational.pl" site_id="RAKUTEN_PL1#PL:.Red.Carpet.TV.International.pl">Red Carpet TV International</channel>
  <channel site="epgshare01.online" lang="en" xmltv_id="TopMoviesPolska.pl" site_id="RAKUTEN_PL1#PL:.Top.Movies.Polska.-.Rakuten.TV.pl">Top Movies Polska - Rakuten TV</channel>
- <channel site="epgshare01.online" lang="pl" xmltv_id="TVEInternacionalEuropeAsia.es" site_id="PL1#TVE.pl">TVE</channel>
+ <channel site="tv.blue.ch" lang="es" xmltv_id="TVEInternacionalEuropeAsia.es" site_id="639">TVE Internacional</channel>
  <channel site="epgshare01.online" lang="en" xmltv_id="ViasatExploreClassic.pl" site_id="RAKUTEN_PL1#PL:.Viasat.Explore.Classic.pl">Viasat Explore Classic</channel>
+ <channel site="tv.blue.ch" lang="es" xmltv_id="24HorasInternacional.es" site_id="71">Canal 24 Horas</channel>
+ <channel site="tv.blue.ch" lang="tr" xmltv_id="TGRTEurope.tr" site_id="602">TGRT EU</channel>
+ <channel site="tv.blue.ch" lang="en" xmltv_id="VH1.pl" site_id="645">VH1</channel>
 
 
 
