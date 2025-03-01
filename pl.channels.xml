@@ -259,9 +259,9 @@
   <channel site="programtv.onet.pl" lang="pl" xmltv_id="ZoomTV.pl" site_id="zoom-tv-526">ZOOM TV</channel>
 
  <channel site="epgshare01.online" lang="en" xmltv_id="AFVFamily.pl" site_id="RAKUTEN_PL1#PL:.AFV.Family.pl">AFV Family</channel>
- <channel site="tv.blue.ch" lang="en" xmltv_id="BBCNewsEurope.uk" site_id="40">BBC World News</channel>
+ <channel site="programtv.onet.pl" lang="en" xmltv_id="BBCNewsEurope.uk" site_id="bbc-world-news-254">BBC World News</channel>
  <channel site="epgshare01.online" lang="en" xmltv_id="Bigtime.pl" site_id="RAKUTEN_PL1#PL:.Bigtime.-.Darmowe.Filmy.pl">Bigtime - Darmowe Filmy</channel>
-<channel site="sky.com" lang="en" xmltv_id="BloombergTVEurope.uk" site_id="1074">Bloomberg HD</channel>
+<channel site="programtv.onet.pl" lang="en" xmltv_id="BloombergTVEurope.uk" site_id="bloomberg-ang-245">Bloomberg HD</channel>
  <channel site="epgshare01.online" lang="en" xmltv_id="CarCityAdventures.pl" site_id="RAKUTEN_PL1#PL:.Car.City.Adventures.pl">PL: Car City Adventures</channel>
  <channel site="sky.com" lang="en" xmltv_id="CNBCEurope.uk" site_id="1088">CNBC HD</channel>
  <channel site="epgshare01.online" lang="en" xmltv_id="DAZNCombat.pl" site_id="RAKUTEN_PL1#PL:.DAZN.Combat.pl">DAZN Combat</channel>
@@ -273,7 +273,7 @@
  <channel site="epgshare01.online" lang="pl" xmltv_id="RadiowaCzworka.pl" site_id="czworka-polskie-radio-133">Czwórka Polskie Radio</channel>
  <channel site="epgshare01.online" lang="en" xmltv_id="RedCarpetTVInternational.pl" site_id="RAKUTEN_PL1#PL:.Red.Carpet.TV.International.pl">Red Carpet TV International</channel>
  <channel site="epgshare01.online" lang="en" xmltv_id="TopMoviesPolska.pl" site_id="RAKUTEN_PL1#PL:.Top.Movies.Polska.-.Rakuten.TV.pl">Top Movies Polska - Rakuten TV</channel>
- <channel site="tv.blue.ch" lang="es" xmltv_id="TVEInternacionalEuropeAsia.es" site_id="639">TVE Internacional</channel>
+ <channel site="programtv.onet.pl" lang="es" xmltv_id="TVEInternacionalEuropeAsia.es" site_id="tve-330">TVE Internacional</channel>
  <channel site="epgshare01.online" lang="en" xmltv_id="ViasatExploreClassic.pl" site_id="RAKUTEN_PL1#PL:.Viasat.Explore.Classic.pl">Viasat Explore Classic</channel>
  <channel site="tv.blue.ch" lang="es" xmltv_id="24HorasInternacional.es" site_id="71">Canal 24 Horas</channel>
  <channel site="tv.blue.ch" lang="tr" xmltv_id="TGRTEurope.tr" site_id="602">TGRT EU</channel>
