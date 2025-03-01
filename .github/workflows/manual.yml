@@ -25,12 +25,18 @@ jobs:
           for i in {1..3}; do
             npm run grab -- --channels=plchannels.xml --output=guide.xml --maxConnections=5 
           done
-      - name: Commit and push changes
-        run: |
-          git config --local user.name "github-actions[bot]"
-          git config --local user.email "github-actions[bot]@users.noreply.github.com" 
-          git commit -m "Auto Update EPG"
-          git push
+      - name: Publish Release
+        uses: ncipollo/release-action@v1
+        with:
+          artifacts: "*.guide.xml"
+          allowUpdates: true
+          generateReleaseNotes: false
+          replacesArtifacts: true
+          removeArtifacts: true
+          prerelease: false
+          draft: false
+          makeLatest: true
+          tag: 1.0.0
 
 
           
