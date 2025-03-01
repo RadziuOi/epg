@@ -1,27 +1,37 @@
-name: EPG update
-
+name: Auto Update EPG
 on:
-  schedule:
-    - cron: '0 */4 * * *' # Daily schedule
   workflow_dispatch:
-
+  schedule:
+    - cron: '0 5 * * *'
 jobs:
-  run_script:
+  main:
     runs-on: ubuntu-latest
-
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v2
-
-    - name: Set up Node
-      uses: actions/setup-node@v4
-      with:
-           node-version: 20
-      
-    - name: npm grab epg
-      run: |
-          npm install
-          npm run grab -- --channels=pl.channels.xml --output=guide.xml
+      - uses: szenius/set-timezone@v2.0
+        with:
+          timezoneLinux: "Europe/Warsaw"
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: 'npm'
+      - name: install dependencies
+        run: npm install
+      - name: check *.channels.xml
+        run: |
+          npm run channels:lint
+      - name: superguide
+        run: |
+          for i in {1..3}; do
+            npm run grab -- --channels=pl.channels.xml --output=pl.guide.xml --maxConnections=5 --gzip && break || sleep 10
+          done
+      - name: Commit and push changes
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git add pl.guide.xml pl.guide.xml.gz
+          git commit -m "Auto Update EPG"
+          git push
           
 
 
