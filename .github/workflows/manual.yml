@@ -25,5 +25,13 @@ jobs:
           npm install
           npm run grab -- --channels=pl.channels.xml --output=guide.xml
 
+                - name: Commit and push changes
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git add super.guide.xml super.guide.xml.gz
+          git commit -m "Auto Update EPG"
+          git push
+
 
           
