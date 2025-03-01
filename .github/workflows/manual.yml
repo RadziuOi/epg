@@ -23,18 +23,13 @@ jobs:
           npm install
           npm run grab -- --channels=pl.channels.xml --output=guide.xml
           
-    - name: Publish Release
-        uses: ncipollo/release-action@v1
-        with:
-          artifacts: "*.guide.xml"
-          allowUpdates: true
-          generateReleaseNotes: false
-          replacesArtifacts: true
-          removeArtifacts: true
-          prerelease: false
-          draft: false
-          makeLatest: true
-          tag: 1.0.0
+      - name: Commit and push changes
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git add super.guide.xml super.guide.xml.gz
+          git commit -m "Auto Update EPG"
+          git push
 
 
           
