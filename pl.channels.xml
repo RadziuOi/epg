@@ -4,9 +4,6 @@
 
 
   <channel site="programtv.onet.pl" lang="en" xmltv_id="EWTNPoland.pl" site_id="ewtn-207">EWTN</channel>
-
-
-
   <channel site="programtv.onet.pl" lang="pl" xmltv_id="13tv.pl" site_id="13-tv-312">13.tv</channel>
   <channel site="programtv.onet.pl" lang="pl" xmltv_id="13Ulica.pl" site_id="13-ulica-316">13 Ulica</channel>
   <channel site="programtv.onet.pl" lang="pl" xmltv_id="4FunDance.pl" site_id="4fun-fit-dance-244">4FUN DANCE</channel>
@@ -65,8 +62,7 @@
   <channel site="programtv.onet.pl" lang="pl" xmltv_id="DocuBox.pl" site_id="docubox-hd-175">DocuBox HD</channel>
   <channel site="programtv.onet.pl" lang="pl" xmltv_id="DTX.pl" site_id="discovery-turbo-xtra-239">DTX</channel>
   <channel site="programtv.onet.pl" lang="pl" xmltv_id="ducktv.sk" site_id="ducktv-94">ducktv</channel>
-  <channel site="programtv.onet.pl" lang="pl" xmltv_id="Echo24.pl" site_id="echo-24-687">Echo 24</channel>
- 
+  <channel site="programtv.onet.pl" lang="pl" xmltv_id="Echo24.pl" site_id="echo-24-687">Echo 24</channel> 
   <channel site="programtv.onet.pl" lang="pl" xmltv_id="EHD.pl" site_id="e-entertainment-hd-169">E! Entertainment HD</channel>
   <channel site="programtv.onet.pl" lang="pl" xmltv_id="ElevenSports1.pl" site_id="eleven-208">Eleven Sports 1</channel>
   <channel site="programtv.onet.pl" lang="pl" xmltv_id="ElevenSports2.pl" site_id="eleven-sports-212">Eleven Sports 2</channel>
@@ -89,7 +85,6 @@
   <channel site="programtv.onet.pl" lang="pl" xmltv_id="FilmBoxFamily.pl" site_id="filmbox-family-103">FilmBox Family</channel>
   <channel site="programtv.onet.pl" lang="pl" xmltv_id="FilmBoxPremiumHD.pl" site_id="filmbox-premium-85">FilmBox Premium HD</channel>
   <channel site="programtv.onet.pl" lang="pl" xmltv_id="FokusTV.pl" site_id="fokus-tv-46">Fokus TV</channel>
-
   <channel site="programtv.onet.pl" lang="pl" xmltv_id="FoodNetwork.pl" site_id="polsat-food-157">Food Network</channel>
   <channel site="programtv.onet.pl" lang="pl" xmltv_id="Fox.pl" site_id="fox-127">FX</channel>
   <channel site="programtv.onet.pl" lang="pl" xmltv_id="FoxComedy.pl" site_id="fox-comedy-75">FX Comedy</channel>
@@ -117,7 +112,6 @@
   <channel site="programtv.onet.pl" lang="pl" xmltv_id="Motowizja.pl" site_id="motowizja-178">Motowizja</channel>
   <channel site="programtv.onet.pl" lang="pl" xmltv_id="MTV.pl" site_id="mtv-polska-7">MTV Polska</channel>
   <channel site="programtv.onet.pl" lang="pl" xmltv_id="MTV00s.pl" site_id="vh1-9">MTV 00s</channel>
-
   <channel site="programtv.onet.pl" lang="pl" xmltv_id="MyZenTV.pl" site_id="myzen-tv-hd-396">MyZen.tv HD</channel>
   <channel site="programtv.onet.pl" lang="pl" xmltv_id="NatGeoPeople.pl" site_id="nat-geo-people-625">Nat Geo People</channel>
   <channel site="programtv.onet.pl" lang="pl" xmltv_id="NationalGeographic.pl" site_id="national-geographic-channel-32">National Geographic</channel>
@@ -170,16 +164,12 @@
   <channel site="programtv.onet.pl" lang="pl" xmltv_id="PowerTV.pl" site_id="power-tv-176">Power TV</channel>
   <channel site="programtv.onet.pl" lang="pl" xmltv_id="Puls2.pl" site_id="puls-2-439">PULS 2</channel>
   <channel site="programtv.onet.pl" lang="pl" xmltv_id="RedCarpetTV.pl" site_id="etv-473">Red Carpet TV</channel>
- 
-
   <channel site="programtv.onet.pl" lang="pl" xmltv_id="RomanceTV.pl" site_id="romance-tv-129">Romance TV</channel>
   <channel site="programtv.onet.pl" lang="pl" xmltv_id="RTL.de" site_id="rtl-401">RTL</channel>
   <channel site="programtv.onet.pl" lang="pl" xmltv_id="RTLZwei.de" site_id="rtl-2-399">RTL Zwei</channel>
   <channel site="programtv.onet.pl" lang="pl" xmltv_id="SciFi.pl" site_id="scifi-universal-20">SCI FI</channel>
   <channel site="programtv.onet.pl" lang="pl" xmltv_id="SportKlub.pl" site_id="sportklub-29">Sportklub</channel>
   <channel site="programtv.onet.pl" lang="pl" xmltv_id="StarsTV.pl" site_id="stars-tv-149">STARS.TV</channel>
-
-
   <channel site="programtv.onet.pl" lang="pl" xmltv_id="StopklatkaTV.pl" site_id="stopklatka-tv-185">STOPKLATKA</channel>
   <channel site="programtv.onet.pl" lang="pl" xmltv_id="StudioMedTV.pl" site_id="studiomed-tv-688">StudioMED TV</channel>
   <channel site="programtv.onet.pl" lang="pl" xmltv_id="SundanceTV.pl" site_id="sundance-channel-237">Sundance TV</channel>
@@ -193,7 +183,6 @@
   <channel site="programtv.onet.pl" lang="pl" xmltv_id="TopKids.pl" site_id="top-kids-225">Top Kids</channel>
   <channel site="programtv.onet.pl" lang="pl" xmltv_id="TopKidsHD.pl" site_id="top-kids-hd-224">Top Kids HD</channel>
   <channel site="programtv.onet.pl" lang="pl" xmltv_id="TravelChannel.pl" site_id="travel-channel-201">Travel Channel</channel>
-
   <channel site="programtv.onet.pl" lang="pl" xmltv_id="TTV.pl" site_id="ttv-624">TTV</channel>
   <channel site="programtv.onet.pl" lang="pl" xmltv_id="TV4.pl" site_id="tv-4-360">TV 4</channel>
   <channel site="programtv.onet.pl" lang="pl" xmltv_id="TV5MondeEurope.fr" site_id="tv-5-monde-europe-412">TV 5 Monde Europe</channel>
@@ -252,39 +241,39 @@
   <channel site="programtv.onet.pl" lang="pl" xmltv_id="WarnerTV.pl" site_id="tnt-72">Warner TV</channel>
   <channel site="programtv.onet.pl" lang="pl" xmltv_id="WarnerTVHD.pl" site_id="tnt-hd-220">Warner TV HD</channel>
   <channel site="programtv.onet.pl" lang="pl" xmltv_id="WaterPlanet.pl" site_id="water-planet-415">Water Planet</channel>
-
   <channel site="programtv.onet.pl" lang="pl" xmltv_id="WPolscePL.pl" site_id="wpolsce-pl-635">wPolsce.pl</channel>
   <channel site="programtv.onet.pl" lang="pl" xmltv_id="WPTV.pl" site_id="wp-532">WP</channel>
   <channel site="programtv.onet.pl" lang="pl" xmltv_id="WTK.pl" site_id="wtk-492">WTK</channel>
   <channel site="programtv.onet.pl" lang="pl" xmltv_id="ZoomTV.pl" site_id="zoom-tv-526">ZOOM TV</channel>
+  <channel site="programtv.onet.pl" lang="en" xmltv_id="BBCNewsEurope.uk" site_id="bbc-world-news-254">BBC World News</channel>
+  <channel site="programtv.onet.pl" lang="en" xmltv_id="BloombergTVEurope.uk" site_id="bloomberg-ang-245">Bloomberg HD</channel>
+  <channel site="programtv.onet.pl" lang="pl" xmltv_id="RadiowaCzworka.pl" site_id="czworka-polskie-radio-133">Czwórka Polskie Radio</channel>
+  <channel site="programtv.onet.pl" lang="es" xmltv_id="TVEInternacionalEuropeAsia.es" site_id="tve-330">TVE Internacional</channel>
+  <channel site="programtv.onet.pl" lang="pl" xmltv_id="VH1.pl" site_id="vh1-9">MTV 00s</channel>
 
- <channel site="epgshare01.online" lang="en" xmltv_id="AFVFamily.pl" site_id="RAKUTEN_PL1#PL:.AFV.Family.pl">AFV Family</channel>
- <channel site="programtv.onet.pl" lang="en" xmltv_id="BBCNewsEurope.uk" site_id="bbc-world-news-254">BBC World News</channel>
+ <channel site="epgshare01.online" lang="en" xmltv_id="AFVFamily.pl" site_id="RAKUTEN_PL1#PL:.AFV.Family.pl">AFV Family</channel> 
  <channel site="epgshare01.online" lang="en" xmltv_id="Bigtime.pl" site_id="RAKUTEN_PL1#PL:.Bigtime.-.Darmowe.Filmy.pl">Bigtime - Darmowe Filmy</channel>
-<channel site="programtv.onet.pl" lang="en" xmltv_id="BloombergTVEurope.uk" site_id="bloomberg-ang-245">Bloomberg HD</channel>
  <channel site="epgshare01.online" lang="en" xmltv_id="CarCityAdventures.pl" site_id="RAKUTEN_PL1#PL:.Car.City.Adventures.pl">PL: Car City Adventures</channel>
- <channel site="sky.com" lang="en" xmltv_id="CNBCEurope.uk" site_id="1088">CNBC HD</channel>
  <channel site="epgshare01.online" lang="en" xmltv_id="DAZNCombat.pl" site_id="RAKUTEN_PL1#PL:.DAZN.Combat.pl">DAZN Combat</channel>
  <channel site="epgshare01.online" lang="en" xmltv_id="DAZNWomensFootball.pl" site_id="RAKUTEN_PL1#PL:.DAZN.Women`s.Football.pl">DAZN Women`s Football</channel>
  <channel site="epgshare01.online" lang="en" xmltv_id="FailArmy.pl" site_id="RAKUTEN_PL1#PL:.Fail.Army.pl">Fail Army</channel>
  <channel site="epgshare01.online" lang="en" xmltv_id="Grjngo.pl" site_id="RAKUTEN_PL1#PL:.Grjngo.-.Westerny.pl">Grjngo - Westerny</channel>
  <channel site="epgshare01.online" lang="en" xmltv_id="HardKnocksFightingChampionship.pl" site_id="RAKUTEN_PL1#PL:.Hard.Knocks.Fighting.Championship.pl">Hard Knocks Fighting Championship</channel>
  <channel site="epgshare01.online" lang="en" xmltv_id="Moconomy.pl" site_id="RAKUTEN_PL1#PL:.Moconomy.-.Gospodarka.i.Finanse.pl">Moconomy - Gospodarka i Finanse</channel>
- <channel site="programtv.onet.pl" lang="pl" xmltv_id="RadiowaCzworka.pl" site_id="czworka-polskie-radio-133">Czwórka Polskie Radio</channel>
  <channel site="epgshare01.online" lang="en" xmltv_id="RedCarpetTVInternational.pl" site_id="RAKUTEN_PL1#PL:.Red.Carpet.TV.International.pl">Red Carpet TV International</channel>
  <channel site="epgshare01.online" lang="en" xmltv_id="TopMoviesPolska.pl" site_id="RAKUTEN_PL1#PL:.Top.Movies.Polska.-.Rakuten.TV.pl">Top Movies Polska - Rakuten TV</channel>
- <channel site="programtv.onet.pl" lang="es" xmltv_id="TVEInternacionalEuropeAsia.es" site_id="tve-330">TVE Internacional</channel>
  <channel site="epgshare01.online" lang="en" xmltv_id="ViasatExploreClassic.pl" site_id="RAKUTEN_PL1#PL:.Viasat.Explore.Classic.pl">Viasat Explore Classic</channel>
- <channel site="tv.blue.ch" lang="es" xmltv_id="24HorasInternacional.es" site_id="71">Canal 24 Horas</channel>
- <channel site="tv.blue.ch" lang="tr" xmltv_id="TGRTEurope.tr" site_id="602">TGRT EU</channel>
- <channel site="programtv.onet.pl" lang="pl" xmltv_id="VH1.pl" site_id="vh1-9">MTV 00s</channel>
  <channel site="epgshare01.online" lang="en" xmltv_id="WorldPokerTour.pl" site_id="RAKUTEN_PL1#PL:.World.Poker.Tour.pl">World Poker Tour</channel>
  <channel site="epgshare01.online" lang="en" xmltv_id="FIFAPlus.pl" site_id="RAKUTEN_PL1#PL:.FIFA+.pl">FIFA+</channel>
- <channel site="epgshare01.online" lang="fr" xmltv_id="RTRPlanetaEurope.ru" site_id="FR1#RTR.Planeta.fr">RTR Planeta</channel>
- <channel site="tv.yandex.ru" lang="ru" xmltv_id="NTVMir.ru" site_id="531">НТВ-Мир</channel>
- <channel site="tv.mail.ru" lang="ru" xmltv_id="PeretzInternational.ru" site_id="1755">Перец International</channel>
+
+ <channel site="tv.blue.ch" lang="es" xmltv_id="24HorasInternacional.es" site_id="71">Canal 24 Horas</channel>
+ <channel site="tv.blue.ch" lang="tr" xmltv_id="TGRTEurope.tr" site_id="602">TGRT EU</channel>
+
+ <channel site="sky.com" lang="en" xmltv_id="CNBCEurope.uk" site_id="1088">CNBC HD</channel>
  
-
-
+ <channel site="epg.iptvx.one" lang="ru" xmltv_id="PeretzInternational.ru" site_id="perec-int">Перец Int</channel>
+ <channel site="epg.iptvx.one" lang="ru" xmltv_id="RTRPlanetaEurope.ru" site_id="rtr-planeta-eu">РТР-Планета Европа</channel>
+ <channel site="epg.iptvx.one" lang="ru" xmltv_id="NTVMir.ru" site_id="ntv-mir">НТВ-Мир</channel>
+ 
 
 </channels>
