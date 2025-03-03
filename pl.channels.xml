@@ -264,7 +264,7 @@
  <channel site="epgshare01.online" lang="en" xmltv_id="TopMoviesPolska.pl" site_id="RAKUTEN_PL1#PL:.Top.Movies.Polska.-.Rakuten.TV.pl">Top Movies Polska - Rakuten TV</channel>
  <channel site="epgshare01.online" lang="en" xmltv_id="ViasatExploreClassic.pl" site_id="RAKUTEN_PL1#PL:.Viasat.Explore.Classic.pl">Viasat Explore Classic</channel>
  <channel site="epgshare01.online" lang="en" xmltv_id="WorldPokerTour.pl" site_id="RAKUTEN_PL1#PL:.World.Poker.Tour.pl">World Poker Tour</channel>
- <channel site="epgshare01.online" lang="en" xmltv_id="FIFAPlus.pl" site_id="RAKUTEN_PL1#PL:.FIFA+.pl">FIFA+</channel>
+ <channel site="epgshare01.online" offset="-0400" lang="en" xmltv_id="FIFAPlus.pl" site_id="RAKUTEN_PL1#PL:.FIFA+.pl">FIFA+</channel>
 
  <channel site="tv.blue.ch" lang="es" xmltv_id="24HorasInternacional.es" site_id="71">Canal 24 Horas</channel>
  <channel site="tv.blue.ch" lang="tr" xmltv_id="TGRTEurope.tr" site_id="602">TGRT EU</channel>
