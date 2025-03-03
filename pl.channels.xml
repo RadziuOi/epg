@@ -274,6 +274,8 @@
  <channel site="epg.iptvx.one" lang="ru" xmltv_id="PeretzInternational.ru" site_id="perec-int">Перец Int</channel>
  <channel site="epg.iptvx.one" lang="ru" xmltv_id="RTRPlanetaEurope.ru" site_id="rtr-planeta-eu">РТР-Планета Европа</channel>
  <channel site="epg.iptvx.one" lang="ru" xmltv_id="NTVMir.ru" site_id="ntv-mir">НТВ-Мир</channel>
+
+ <channel site="melita.com" lang="en" xmltv_id="EWTNEurope.us" site_id="f3ff65cf-ac72-42e1-bb2d-438f4c77590e">EWTN</channel>
  
 
 </channels>
