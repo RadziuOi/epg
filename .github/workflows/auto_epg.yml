@@ -1,0 +1,54 @@
+name: Auto Update PL EPG
+
+on:
+  workflow_dispatch:          # ręczne wywołanie
+  schedule:
+    # 3 :00 Warszawa == 22 :00 UTC (przed zmianą czasu)
+    - cron: '0 3 * * *'
+
+jobs:
+  main:
+    runs-on: ubuntu-latest
+    steps:
+      # Ustawienie strefy czasowej na maszynie
+      - uses: szenius/set-timezone@v2.0
+        with:
+          timezoneLinux: 'Europe/Warsaw'
+
+      # Pobranie repozytorium
+      - uses: actions/checkout@v4
+
+      # Instalacja Node.js (w tej wersji jest dostępna LTS 20.x)
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 25
+          cache: 'npm'
+
+      # Instalacja zależności
+      - name: Install dependencies
+        run: npm ci
+
+      # Pobranie i przetworzenie przewodnika
+      - name: Generate EPG
+        run: |
+          npm run grab -- \
+            --channels=pl.channels.xml \
+            --output=pl.guide.xml \
+            --gzip
+
+      # Commit & push
+      - name: Commit and push changes
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Dodaj pliki tylko wtedy, gdy się zmieniły
+          git add pl.guide.xml pl.guide.xml.gz || true
+
+          # Jeśli nic się nie zmieniło, pomiń commit
+          if ! git diff-index --quiet HEAD --; then
+            git commit -m "Auto Update PL EPG" || true
+            git push
+          else
+            echo "No changes – nothing to commit."
+          fi
