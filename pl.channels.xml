@@ -2,7 +2,6 @@
 <channels>
   <channel site="programtv.onet.pl" site_id="4fun-hits-283" lang="pl" xmltv_id="4FunKids.pl@SD">4FUN KIDS</channel>
   <channel site="programtv.onet.pl" site_id="4fun-tv-269" lang="pl" xmltv_id="4FunTV.pl@SD">4FUN.TV</channel>
-  <channel site="programtv.onet.pl" site_id="cafe-futbol-51853" lang="pl" xmltv_id="CafeFutbol.pl@SD">Cafe Futbol</channel>
   <channel site="programtv.onet.pl" site_id="dlaciebie-tv-442" lang="pl" xmltv_id="dlaCiebietv.pl@SD">dlaCiebie.tv</channel>
   <channel site="programtv.onet.pl" site_id="echo-24-687" lang="pl" xmltv_id="Echo24.pl@SD">Echo 24</channel>
   <channel site="programtv.onet.pl" site_id="lubelska-tv-210" lang="pl" xmltv_id="NewTV.pl@SD">New TV</channel>
@@ -36,5 +35,6 @@
   <channel site="programtv.onet.pl" site_id="polsat-38" lang="pl" xmltv_id="Polsat.pl@SD">Polsat</channel>
   <channel site="programtv.onet.pl" site_id="polsat-sport-334" lang="pl" xmltv_id="PolsatSport1.pl@SD">Polsat Sport 1</channel>
  </channels>
+
 
 
