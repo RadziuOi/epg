@@ -34,7 +34,62 @@
   <channel site="programtv.onet.pl" site_id="polsat-2-327" lang="pl" xmltv_id="Polsat2.pl@SD">Polsat 2</channel>
   <channel site="programtv.onet.pl" site_id="polsat-38" lang="pl" xmltv_id="Polsat.pl@SD">Polsat</channel>
   <channel site="programtv.onet.pl" site_id="polsat-sport-334" lang="pl" xmltv_id="PolsatSport1.pl@SD">Polsat Sport 1</channel>
+
+
+
+
+  <channel site="epgshare01.online" site_id="RAKUTEN_PL1#PL:.Africanews.pl" lang="en" xmltv_id="AfricanewsEnglish.fr@Poland">PL: Africanews</channel>
+  <channel site="epgshare01.online" site_id="RAKUTEN_PL1#PL:.American.Crime.Channel.pl" lang="en" xmltv_id="AmericanCrimeChannel.pl@Poland">PL: American Crime Channel</channel>
+  <channel site="epgshare01.online" site_id="RAKUTEN_PL1#PL:.Baby.Shark.TV.pl" lang="en" xmltv_id="BabySharkTV.us@Poland">PL: Baby Shark TV</channel>
+  <channel site="epgshare01.online" site_id="RAKUTEN_PL1#PL:.Bigtime.-.Darmowe.Filmy.pl" lang="en" xmltv_id="Bigtime.pl@SD">PL: Bigtime - Darmowe Filmy</channel>
+  <channel site="epgshare01.online" site_id="RAKUTEN_PL1#PL:.Bloomberg.Originals.pl" lang="en" xmltv_id="BloombergOriginals.us@Poland">PL: Bloomberg Originals</channel>
+  <channel site="epgshare01.online" site_id="RAKUTEN_PL1#PL:.Bloomberg.Television.pl" lang="en" xmltv_id="BloombergTV.us@Plus-Poland">PL: Bloomberg Television</channel>
+  <channel site="epgshare01.online" site_id="RAKUTEN_PL1#PL:.Buzzfeed.Unsolved.pl" lang="en" xmltv_id="BuzzfeedUnsolved.pl@FAST">PL: Buzzfeed Unsolved</channel>
+  <channel site="epgshare01.online" site_id="RAKUTEN_PL1#PL:.Car.City.Adventures.pl" lang="en" xmltv_id="CarCityAdventures.pl@SD">PL: Car City Adventures</channel>
+  <channel site="epgshare01.online" site_id="RAKUTEN_PL1#PL:.Cartoon.Classics.pl" lang="en" xmltv_id="CartoonClassics.pl@FAST">PL: Cartoon Classics</channel>
+  <channel site="epgshare01.online" site_id="RAKUTEN_PL1#PL:.COPS.pl" lang="en" xmltv_id="Cops.us@Poland">PL: COPS</channel>
+  <channel site="epgshare01.online" site_id="RAKUTEN_PL1#PL:.DAZN.Combat.pl" lang="en" xmltv_id="DAZNCombat.uk@Poland">PL: DAZN Combat</channel>
+  <channel site="epgshare01.online" site_id="RAKUTEN_PL1#PL:.Dr..G:.Medical.Examiner.pl" lang="en" xmltv_id="DrGMedicalExaminer.pl@HD">PL: Dr. G: Medical Examiner</channel>
+  <channel site="epgshare01.online" site_id="RAKUTEN_PL1#PL:.Euronews.LIVE.pl" lang="en" xmltv_id="Euronews.pl@FAST">PL: Euronews LIVE</channel>
+  <channel site="epgshare01.online" site_id="RAKUTEN_PL1#PL:.Fail.Army.pl" lang="en" xmltv_id="FailArmy.us@Poland">PL: Fail Army</channel>
+  <channel site="epgshare01.online" site_id="RAKUTEN_PL1#PL:.GLORY.Kickboxing.pl" lang="en" xmltv_id="GloryKickboxing.us@Poland">PL: GLORY Kickboxing</channel>
+  <channel site="epgshare01.online" site_id="RAKUTEN_PL1#PL:.Grjngo.-.Westerny.pl" lang="en" xmltv_id="Grjngo.pl@SD">PL: Grjngo - Westerny</channel>
+  <channel site="epgshare01.online" site_id="RAKUTEN_PL1#PL:.Gusto.TV.pl" lang="en" xmltv_id="GustoTV.ca@Poland">PL: Gusto TV</channel>
+  <channel site="epgshare01.online" site_id="RAKUTEN_PL1#PL:.Hard.Knocks.Fighting.Championship.pl" lang="en" xmltv_id="HardKnocksFightingChampionship.pl@SD">PL: Hard Knocks Fighting Championship</channel>
+  <channel site="epgshare01.online" site_id="RAKUTEN_PL1#PL:.Jail.pl" lang="en" xmltv_id="Jail.pl@Poland">PL: Jail</channel>
+  <channel site="epgshare01.online" site_id="RAKUTEN_PL1#PL:.Lone.Star.pl" lang="en" xmltv_id="LoneStar.us@Poland">PL: Lone Star</channel>
+  <channel site="epgshare01.online" site_id="RAKUTEN_PL1#PL:.Moconomy.-.Gospodarka.i.Finanse.pl" lang="en" xmltv_id="Moconomy.pl@SD">PL: Moconomy - Gospodarka i Finanse</channel>
+  <channel site="epgshare01.online" site_id="RAKUTEN_PL1#PL:.Monster.Jam.pl" lang="en" xmltv_id="MonsterJam.pl@SD">PL: Monster Jam</channel>
+  <channel site="epgshare01.online" site_id="RAKUTEN_PL1#PL:.NOW.70s.pl" lang="en" xmltv_id="Now70s.uk@Poland">PL: NOW 70s</channel>
+  <channel site="epgshare01.online" site_id="RAKUTEN_PL1#PL:.NOW.80s.pl" lang="en" xmltv_id="Now80s.uk@Poland">PL: NOW 80s</channel>
+  <channel site="epgshare01.online" site_id="RAKUTEN_PL1#PL:.NOW.Rock.pl" lang="en" xmltv_id="NOWRock.uk@Poland">PL: NOW Rock</channel>
+  <channel site="epgshare01.online" site_id="RAKUTEN_PL1#PL:.People.Are.Awesome.pl" lang="en" xmltv_id="PeopleAreAwesome.us@Poland">PL: People Are Awesome</channel>
+  <channel site="epgshare01.online" site_id="RAKUTEN_PL1#PL:.PFL.MMA.pl" lang="en" xmltv_id="PFLMMA.pl@SD">PL: PFL MMA</channel>
+  <channel site="epgshare01.online" site_id="RAKUTEN_PL1#PL:.Qello.Concerts.by.Stingray.pl" lang="en" xmltv_id="QelloConcertsbyStingray.ca@Poland">PL: Qello Concerts by Stingray</channel>
+  <channel site="epgshare01.online" site_id="RAKUTEN_PL1#PL:.RACER.International.pl" lang="en" xmltv_id="RACERInternational.pl@FAST">PL: RACER International</channel>
+  <channel site="epgshare01.online" site_id="RAKUTEN_PL1#PL:.Rakuten.VIKI.pl" lang="en" xmltv_id="RakutenViki.es@Poland">PL: Rakuten VIKI</channel>
+  <channel site="epgshare01.online" site_id="RAKUTEN_PL1#PL:.Revry.pl" lang="en" xmltv_id="Revry.us@Poland">PL: Revry</channel>
+  <channel site="epgshare01.online" site_id="RAKUTEN_PL1#PL:.Royalworld.-.Arystokracja.&amp;.Dynastie.pl" lang="en" xmltv_id="Royalworld.pl@FAST">PL: Royalworld - Arystokracja &amp;amp; Dynastie</channel>
+  <channel site="epgshare01.online" site_id="RAKUTEN_PL1#PL:.Stingray.Greatest.Hits.pl" lang="en" xmltv_id="StingrayGreatestHits.ca@Poland">PL: Stingray Greatest Hits</channel>
+  <channel site="epgshare01.online" site_id="RAKUTEN_PL1#PL:.Stingray.Naturescape.pl" lang="en" xmltv_id="StingrayNaturescape.ca@Poland">PL: Stingray Naturescape</channel>
+  <channel site="epgshare01.online" site_id="RAKUTEN_PL1#PL:.Stingray:.Hitlist.pl" lang="en" xmltv_id="StingrayHitList.ca@Poland">PL: Stingray: Hitlist</channel>
+  <channel site="epgshare01.online" site_id="RAKUTEN_PL1#PL:.Stingray:.Remember.the.80’s.pl" lang="en" xmltv_id="StingrayRememberthe80s.ca@Poland">PL: Stingray: Remember the 80’s</channel>
+  <channel site="epgshare01.online" site_id="RAKUTEN_PL1#PL:.Strongman.Champions.League.pl" lang="en" xmltv_id="StrongmanChampionsLeague.pl@SD">PL: Strongman Champions League</channel>
+  <channel site="epgshare01.online" site_id="RAKUTEN_PL1#PL:.Tastemade.pl" lang="en" xmltv_id="Tastemade.us@Poland">PL: Tastemade</channel>
+  <channel site="epgshare01.online" site_id="RAKUTEN_PL1#PL:.The.Design.Network.pl" lang="en" xmltv_id="TheDesignNetwork.us@Poland">PL: The Design Network</channel>
+  <channel site="epgshare01.online" site_id="RAKUTEN_PL1#PL:.The.Pet.Collective.pl" lang="en" xmltv_id="ThePetCollective.us@Poland">PL: The Pet Collective</channel>
+  <channel site="epgshare01.online" site_id="RAKUTEN_PL1#PL:.TNA.Wrestling.Channel.pl" lang="en" xmltv_id="TNAWrestlingChannel.pl@SD">PL: TNA Wrestling Channel</channel>
+  <channel site="epgshare01.online" site_id="RAKUTEN_PL1#PL:.TOP.Barça.pl" lang="en" xmltv_id="TOPBarca.pl@SD">PL: TOP Barça</channel>
+  <channel site="epgshare01.online" site_id="RAKUTEN_PL1#PL:.Top.Million.Dollar.Agent.pl" lang="en" xmltv_id="TopMillionDollarAgent.pl@FAST">PL: Top Million Dollar Agent</channel>
+  <channel site="epgshare01.online" site_id="RAKUTEN_PL1#PL:.Top.Movies.Polska.-.Rakuten.TV.pl" lang="en" xmltv_id="TopMoviesPolska.pl@SD">PL: Top Movies Polska - Rakuten TV</channel>
+  <channel site="epgshare01.online" site_id="RAKUTEN_PL1#PL:.Viasat.Explore.Classic.pl" lang="en" xmltv_id="ViasatExploreClassic.pl@SD">PL: Viasat Explore Classic</channel>
+  <channel site="epgshare01.online" site_id="RAKUTEN_PL1#PL:.Weather.Spy.pl" lang="en" xmltv_id="WeatherSpy.us@Poland">PL: Weather Spy</channel>
+  <channel site="epgshare01.online" site_id="RAKUTEN_PL1#PL:.World.Billiards.TV.pl" lang="en" xmltv_id="WorldBilliards.pl@SD">PL: World Billiards TV</channel>
+  <channel site="epgshare01.online" site_id="RAKUTEN_PL1#PL:.World.of.Freesports.pl" lang="en" xmltv_id="WorldofFreesports.de@Poland">PL: World of Freesports</channel>
+  <channel site="epgshare01.online" site_id="RAKUTEN_PL1#PL:.World.Poker.Tour.pl" lang="en" xmltv_id="WorldPokerTour.us@Poland">PL: World Poker Tour</channel>
+  <channel site="epgshare01.online" site_id="RAKUTEN_PL1#PL:.Z.Nation.pl" lang="en" xmltv_id="ZNation.pl@SD">PL: Z Nation</channel>
  </channels>
+
 
 
 
