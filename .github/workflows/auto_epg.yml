@@ -4,7 +4,7 @@ on:
   workflow_dispatch:          # ręczne wywołanie
   schedule:
     # 3 :00 Warszawa == 22 :00 UTC (przed zmianą czasu)
-    - cron: '0 3 * * *'
+    - cron: '0 1 * * *'
 
 jobs:
   main:
