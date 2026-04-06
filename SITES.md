@@ -14,6 +14,7 @@
     <tr><td><a href="sites/antennaeurope.gr">antennaeurope.gr</a></td><td align="right">1</td><td align="right">1</td><td align="center">🟢</td><td></td></tr>
     <tr><td><a href="sites/antennapacific.gr">antennapacific.gr</a></td><td align="right">1</td><td align="right">1</td><td align="center">🟢</td><td></td></tr>
     <tr><td><a href="sites/antennasatellite.gr">antennasatellite.gr</a></td><td align="right">1</td><td align="right">1</td><td align="center">🟢</td><td></td></tr>
+    <tr><td><a href="sites/app.tvufop.com.br">app.tvufop.com.br</a></td><td align="right">1</td><td align="right">1</td><td align="center">🟢</td><td></td></tr>
     <tr><td><a href="sites/arianatelevision.com">arianatelevision.com</a></td><td align="right">1</td><td align="right">1</td><td align="center">🟢</td><td></td></tr>
     <tr><td><a href="sites/arirang.com">arirang.com</a></td><td align="right">3</td><td align="right">3</td><td align="center">🟢</td><td></td></tr>
     <tr><td><a href="sites/artonline.tv">artonline.tv</a></td><td align="right">5</td><td align="right">5</td><td align="center">🟢</td><td></td></tr>
@@ -153,7 +154,7 @@
     <tr><td><a href="sites/singtel.com">singtel.com</a></td><td align="right">155</td><td align="right">113</td><td align="center">🟢</td><td></td></tr>
     <tr><td><a href="sites/sjonvarp.is">sjonvarp.is</a></td><td align="right">13</td><td align="right">13</td><td align="center">🟢</td><td></td></tr>
     <tr><td><a href="sites/sky.co.nz">sky.co.nz</a></td><td align="right">111</td><td align="right">93</td><td align="center">🟢</td><td></td></tr>
-    <tr><td><a href="sites/sky.com">sky.com</a></td><td align="right">542</td><td align="right">489</td><td align="center">🟢</td><td></td></tr>
+    <tr><td><a href="sites/sky.com">sky.com</a></td><td align="right">542</td><td align="right">489</td><td align="center">🟡</td><td>https://github.com/iptv-org/epg/issues/2763</td></tr>
     <tr><td><a href="sites/sky.de">sky.de</a></td><td align="right">74</td><td align="right">74</td><td align="center">🟢</td><td></td></tr>
     <tr><td><a href="sites/skylife.co.kr">skylife.co.kr</a></td><td align="right">257</td><td align="right">0</td><td align="center">🟢</td><td></td></tr>
     <tr><td><a href="sites/skyperfectv.co.jp">skyperfectv.co.jp</a></td><td align="right">137</td><td align="right">129</td><td align="center">🟢</td><td></td></tr>
